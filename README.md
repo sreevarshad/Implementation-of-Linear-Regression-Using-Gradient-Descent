@@ -103,7 +103,7 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 
 Profit prediction graph
 
-![](https://github.com/sreevarshad/Implementation-of-Linear-Regression-Using-Gradient-Descent/edit/main/README.md)
+![](https://github.com/sreevarshad/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/ML%20exp%20201.png)
 
 Compute cost value
 
