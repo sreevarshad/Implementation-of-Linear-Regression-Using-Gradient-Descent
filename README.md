@@ -103,31 +103,31 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 
 Profit prediction graph
 
-![]()
+![](https://github.com/sreevarshad/Implementation-of-Linear-Regression-Using-Gradient-Descent/edit/main/README.md)
 
 Compute cost value
 
-![]()
+![](https://github.com/sreevarshad/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/ML%20exp%20202.png)
 
 h(x) value
 
-![]()
+![](https://github.com/sreevarshad/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/ML%20exp%20203.png)
 
 Cost function using gradient descent graph
 
-![]()
+![](https://github.com/sreevarshad/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/ML%20exp%20204.png)
 
 Profit prediction graph
 
-![]()
+![](https://github.com/sreevarshad/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/ML%20exp%20205.png)
 
 Profit for the population 35,000
 
-![]()
+![](https://github.com/sreevarshad/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/ML%20exp%20206.png)
 
 Profit for the population 70,000
 
-![]()
+![](https://github.com/sreevarshad/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/ML%20exp%20207.png)
 
 
 
